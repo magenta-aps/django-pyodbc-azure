@@ -1,3 +1,4 @@
+Hopefully a temporarily fork to support django-2.2 (required by datafordeler-admin).
 django-pyodbc-azure
 ===================
 
@@ -17,7 +18,7 @@ Microsoft SQL Server and Azure SQL Database.
 Features
 --------
 
--  Supports Django 2.1
+-  Supports Django 2.2
 -  Supports Microsoft SQL Server 2008/2008R2, 2012, 2014, 2016, 2017 and
    Azure SQL Database
 -  Passes most of the tests of the Django test suite
